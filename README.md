@@ -14,8 +14,12 @@ experience and use my skills. I was handling all the technology-related job duti
 maintaining systems, maintaining and updating the website, online email queries, and updating 
 inventory. 
 
-### Skills
+### My Skills
+
+
 
 ### States
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Indercheema&count_private=true&theme=tokyonight&showicons=true)]()
 
 
