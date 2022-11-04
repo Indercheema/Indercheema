@@ -9,10 +9,9 @@ practical experience with computers or programming. In 2015, I went to New Zeala
 Computer diploma and got various hand on knowledge about computer software, hardware, 
 and networking. I was awarded a scholarship for great performance throughout the year.
 
-I worked for one New Zealand company as an ICT support technician to get international 
-experience and use my skills. I was handling all the technology-related job duties including 
-maintaining systems, maintaining and updating the website, online email queries, and updating 
-inventory. 
+Now, I am studying the Software Developer Program at the Manitoba Institute of Trades and Technology.
+I have gained practical experience coding HTML, CSS, and JavaScript. I love to develop new design
+Websites using CSS and JavaScript.
 
 ### My Skills
 
