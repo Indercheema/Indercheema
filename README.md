@@ -1,4 +1,4 @@
-![alt text](https://unsplash.com/photos/842ofHC6MaI)
+![plot](./assets/img/cover.jpg)
 
 
 ## About Me
