@@ -1,3 +1,6 @@
+![alt text](https://unsplash.com/photos/842ofHC6MaI)
+
+
 ## About Me
 
 I’m Inderjeet Sing Cheema. I was born in Punjab, India. I have been attached to technology
