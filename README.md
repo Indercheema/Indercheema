@@ -21,5 +21,6 @@ inventory.
 ### States
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Indercheema&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&langs_count=5&theme=tokyonight)]()
 
 
