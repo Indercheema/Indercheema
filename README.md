@@ -13,7 +13,7 @@ Now, I am studying the Software Developer Program at the Manitoba Institute of T
 I have gained practical experience coding HTML, CSS, and JavaScript. I love to develop new design
 Websites using CSS and JavaScript.
 
-### My Skills
+## My Skills
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -23,7 +23,7 @@ Websites using CSS and JavaScript.
 </p>
 
 
-### Stats
+## Stats
 <!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=tokyonight)
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=tokyonight) -->
