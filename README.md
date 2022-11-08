@@ -24,8 +24,12 @@ Websites using CSS and JavaScript.
 
 
 ### Stats
-
+<!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=tokyonight)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=tokyonight)
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=tokyonight) -->
+
+<a href = "https://github.com/Indercheema">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=tokyonight" alt="Inder">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=tokyonight" alt="Inder">
 
 
