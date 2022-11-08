@@ -1,4 +1,4 @@
-![plot](./assets/img/cover.jpg)
+![plot](./assets/img/cover2.jpg)
 
 
 ## About Me
