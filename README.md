@@ -24,8 +24,11 @@ Websites using CSS and JavaScript.
 
 
 ### Stats
-
+<div>
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=tokyonight)
+</div>
+<div>
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=tokyonight)
+</div>
 
 
