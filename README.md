@@ -38,7 +38,7 @@ I have gained practical experience coding HTML, CSS, and JavaScript. I have been
 ## Stats
 <!-- 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=tokyonight)
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/langs/?username=Indercheema&theme=tokyonight) -->
+![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/all-langs/?username=Indercheema&theme=tokyonight) -->
 
 <a href = "https://github.com/Indercheema">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=vue&show_icons=true" alt="Inder"  height="200">
