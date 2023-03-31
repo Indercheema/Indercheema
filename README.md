@@ -41,8 +41,8 @@ I have gained practical experience coding HTML, CSS, and JavaScript. I have been
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=tokyonight) -->
 
 <a href = "https://github.com/Indercheema">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=vue&show_icons=true" alt="Inder"  height="200" width="400">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=vue" alt="Inder"  height="200" width="400">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=vue&show_icons=true" alt="Inder"  height="200" width="800">
+    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=vue" alt="Inder"  height="200" width="800">
 
 
 
