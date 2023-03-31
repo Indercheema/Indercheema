@@ -10,8 +10,7 @@ Computer diploma and got various hand on knowledge about computer software, hard
 and networking. I was awarded a scholarship for great performance throughout the year.
 
 Now, I am studying the Software Developer Program at the Manitoba Institute of Trades and Technology.
-I have gained practical experience coding HTML, CSS, and JavaScript. I love to develop new design
-Websites using CSS and JavaScript.
+I have gained practical experience coding HTML, CSS, and JavaScript. I have been in project-based learning environments of back-end structures including advanced topics in C#, Relational Databases, MVC, .Net, Static/Generic classes, and SqlServer Database. I had developed 20+ school projects using Front-End and Back-End skills.
 
 ## My Skills
 
