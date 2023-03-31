@@ -43,7 +43,10 @@ I have gained practical experience coding HTML, CSS, and JavaScript. I have been
 <a href = "https://github.com/Indercheema">
     <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Indercheema&theme=vue&show_icons=true" alt="Inder"  height="200">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Indercheema&theme=vue" alt="Inder"  height="200">
-     <img align="center" src="https://github-profile-trophy.vercel.app/?username=Indercheema&theme=vue&title=Commits,Repositories" alt="Inder"  height="200">
+    <img align="center" src="https://github-profile-trophy.vercel.app/?username=Indercheema&theme=vue&title=Commits,Repositories" alt="Inder"  height="200">
+    <img align="center" src="  https://github-readme-streak-stats.herokuapp.com/?user=Indercheema&theme=vue" alt="Inder"  height="200">
+
+  
 
 
 
